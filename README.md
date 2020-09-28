@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/dannyshwan/dannyshwan/blob/v2/title.png?raw=true" alt="intro image"/>
+  <img src="https://github.com/dannyshwan/dannyshwan/blob/master/title.png?raw=true" alt="intro image"/>
   <img src="https://github-readme-stats.vercel.app/api?username=dannyshwan&count_private=true" />
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyshwan&layout=compact&hide=css" />
 </p>
